@@ -1,4 +1,4 @@
-Aqui está um exemplo profissional e bem estruturado de README para o seu projeto:  
+
 
 ---
 
@@ -17,8 +17,6 @@ Este repositório apresenta um dashboard desenvolvido na plataforma **Xperiun**,
 - **Visualização de Dados:** Gráficos de linha, barras e torta  
 - **Análise de Dados:** Comparações de receita e custo por agrupamentos específicos  
 
-## 📸 **Captura de Tela do Dashboard**  
-![Dashboard Screenshot](./dashboard_xperiun.PNG)  
 
 ## 📈 **Insights Fornecidos**  
 1. Tendências de receita ao longo do tempo  
